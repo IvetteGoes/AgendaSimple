@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaSimple</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_perfildeusuario_list">Items</string>
+    <string name="title_perfildeusuario_detail">Perfil de Usuario Detail</string>
+    <string name="title_activity_perfiles">Perfiles</string>
+</resources>
